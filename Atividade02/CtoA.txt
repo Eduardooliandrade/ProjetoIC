@@ -1,0 +1,1 @@
+A distância de Hamming entre as sequências C e A é: 631

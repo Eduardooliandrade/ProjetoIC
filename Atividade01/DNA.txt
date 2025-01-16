@@ -1,0 +1,6 @@
+Usando um website dotado com a função de contador de letras (fonte no rodapé), foi possível contar um string de DNA com 826 caracteres. Dos quais a quantidade de que cada um dos nucleotídeos 'A', 'C', 'G' e 'T' aparecem são: 
+C: 227 vezes; A: 209 vezes; G: 201 vezes; T: 189 vezes.
+Desse modo, os seguintes passos foram feito:
+1° Separação do DNA em códons (grupos de 3);
+2° Marcação de cada um dos termos com cores diferentes;
+3° Contador de letras utilizando https://meuredator.com.br/contador-de-palavras/.
